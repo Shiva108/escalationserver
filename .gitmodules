@@ -1,0 +1,36 @@
+[submodule "AutoLocalPrivilegeEscalation"]
+	path = AutoLocalPrivilegeEscalation
+	url = ../../ngalongc/AutoLocalPrivilegeEscalation.git
+[submodule "BeRoot"]
+	path = BeRoot
+	url = ../../AlessandroZ/BeRoot.git
+[submodule "JAWS"]
+	path = JAWS
+	url = ../../411Hall/JAWS.git
+[submodule "kernelpop"]
+	path = kernelpop
+	url = ../../spencerdodd/kernelpop.git
+[submodule "linux-smart-enumeration"]
+	path = linux-smart-enumeration
+	url = ../../diego-treitos/linux-smart-enumeration.git
+[submodule "mimikatz"]
+	path = mimikatz
+	url = ../../gentilkiwi/mimikatz.git
+[submodule "Powerless"]
+	path = Powerless
+	url = ../../M4ximuss/Powerless.git
+[submodule "PowerLessShell"]
+	path = PowerLessShell
+	url = ../../Mr-Un1k0d3r/PowerLessShell.git
+[submodule "PowerSploit"]
+	path = PowerSploit
+	url = ../../PowerShellMafia/PowerSploit.git
+[submodule "PrivEsc"]
+	path = PrivEsc
+	url = ../../1N3/PrivEsc.git
+[submodule "Privesc"]
+	path = Privesc
+	url = ../../enjoiz/Privesc.git
+[submodule "pypykatz"]
+	path = pypykatz
+	url = ../../skelsec/pypykatz.git
